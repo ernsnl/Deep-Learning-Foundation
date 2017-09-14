@@ -1,3 +1,4 @@
+.DS_Store
 deep-learning
-__pycache__
+__pycache__/
 *.pyc
